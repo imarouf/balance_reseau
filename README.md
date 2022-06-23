@@ -50,7 +50,7 @@ Pour me simplifier la tâche, j’ai décidé d’utiliser **XAMPP** qui compren
 
 <br>
 
-![Texte alternatif](overview_project.png "Titre, facultatif")
+![Texte alternatif1](overview_project.png "Titre, facultatif")
  
 <br>
 
@@ -134,7 +134,7 @@ Il faudra modifier dans Esp_vers_BDD les parties suivantes :
  
  
 Enfin, il ne reste plus qu'à téléverser le code sur l'esp. Si tout se passe bien vous devrez avoir ceci qui est affiché sur le moniteur série d'arduino :
-![Texte alternatif](drive1.png "Titre, facultatif")
+![Texte alternatif2](drive1.png "Titre, facultatif")
 
  * 1 - L'ESP se connecte au Wi-Fi
  * 2 - Initiatisation de la balance Arduino
@@ -146,7 +146,7 @@ Enfin, il ne reste plus qu'à téléverser le code sur l'esp. Si tout se passe b
 >insérer l'image drive 3
  
  Puis il ne vous reste plus qu'à vérifier si les données sont bien enregistrées dans la BDD :
-![Texte alternatif](drive2.png "Titre, facultatif")
+![Texte alternatif3](drive2.png "Titre, facultatif")
 
  
 ### Si tout marche bien, alors félicitation !
