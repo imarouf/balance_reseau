@@ -134,7 +134,12 @@ Il faudra modifier dans Esp_vers_BDD les parties suivantes :
  
  
 Enfin, il ne reste plus qu'à téléverser le code sur l'esp. Si tout se passe bien vous devrez avoir ceci qui est affiché sur le moniteur série d'arduino :
+
+<br>
+
 ![Texte alternatif2](serialmonitor.png)
+
+<br>
 
  * 1 - L'ESP se connecte au Wi-Fi
  * 2 - Initiatisation de la balance Arduino
@@ -146,7 +151,12 @@ Enfin, il ne reste plus qu'à téléverser le code sur l'esp. Si tout se passe b
 >insérer l'image drive 3
  
  Puis il ne vous reste plus qu'à vérifier si les données sont bien enregistrées dans la BDD :
+
+<br>
+
 ![Texte alternatif3](dbdata.png)
+
+<br>
 
  
 ### Si tout marche bien, alors félicitation !
